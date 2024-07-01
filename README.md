@@ -1,3 +1,12 @@
+<meter
+  min="0"
+  max="100"
+  low="25"
+  high="75"
+  optimum="80"
+  value="50"
+></meter>
+
 <h1>Hardware Used</h1> 
 <ul>
 <li>1- Raspberry Pi 3 Model B</li>
