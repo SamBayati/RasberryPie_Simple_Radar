@@ -1,8 +1,8 @@
 <h1>Hardware Used</h1> 
 <ul>
 <li>1- Raspberry Pi 3 Model B</li>
-<li>2- HC-SR04 sensor</li>
-<li>3- Servo Motor</li>
+<li>2- Servomotor</li>
+<li>3- HC-SR04 sensor</li>
 </h1>
 
   
